@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images11.jpeg</filename>
+	<path>/home/youngkwon/workspace/pyml_aquaculture/images/train/images11.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shrimp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>269</ymin>
+			<xmax>597</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

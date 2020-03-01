@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Crystal_Red_Shrimp27.jpg</filename>
+	<path>/home/youngkwon/workspace/pyml_aquaculture/images/train/Crystal_Red_Shrimp27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shrimp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>268</ymin>
+			<xmax>619</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>
